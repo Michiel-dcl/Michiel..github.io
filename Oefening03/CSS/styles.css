@@ -1,0 +1,17 @@
+body{
+    font-family: serif;
+    background-color: burlywood;
+}
+
+h1{
+    color:darkcyan;
+}
+
+img{
+    background-color: yellow;
+    max-width: 100%;
+}
+
+.inspringen{
+    margin-left: 40%;
+}
